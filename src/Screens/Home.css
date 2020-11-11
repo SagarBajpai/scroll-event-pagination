@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image {
+  width: 400px;
+  margin: 25px;
+}
+
+.image-content {
+  padding: 25px;
+}
